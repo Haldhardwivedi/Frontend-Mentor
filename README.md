@@ -6,4 +6,4 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://haldhardwivedi.github.io/Frontend-Mentor/)
+- Live Site URL: [Link](https://haldhardwivedi.github.io/Frontend-Mentor/)
