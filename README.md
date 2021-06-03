@@ -5,5 +5,5 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Link](hhttps://www.frontendmentor.io/solutions/i-used-flex-and-media-query-to-handle-the-mobile-view-r3GnjXGKE)
 - Live Site URL: [Link](https://haldhardwivedi.github.io/Frontend-Mentor/)
